@@ -39,8 +39,17 @@
 
 ## 🐍 Minhas Contribuições  
 
-![Snake animation dark](https://github.com/Gustavo-Oliveira-Dev/Gustavo-Oliveira-Dev/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)  
-![Snake animation light](https://github.com/Gustavo-Oliveira-Dev/Gustavo-Oliveira-Dev/blob/output/github-contribution-grid-snake-light.svg#gh-light-mode-only)
+<!-- Snake animation dark/light para GitHub -->
+<img 
+  alt="Snake animation dark" 
+  src="https://raw.githubusercontent.com/Gustavo-Oliveira-Dev/Gustavo-Oliveira-Dev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" 
+  width="100%" 
+/>
+<img 
+  alt="Snake animation light" 
+  src="https://raw.githubusercontent.com/Gustavo-Oliveira-Dev/Gustavo-Oliveira-Dev/output/github-contribution-grid-snake-light.svg#gh-light-mode-only" 
+  width="100%" 
+/>
 
 ---
 
@@ -51,5 +60,5 @@
 
 ---
 
-✨ Sempre em busca de aprender, criar e compartilhar conhecimento no universo do desenvolvimento web!  
+✨ Sempre em busca de aprender, criar e compartilhar conhecimento no universo do desenvolvimento web!
 
