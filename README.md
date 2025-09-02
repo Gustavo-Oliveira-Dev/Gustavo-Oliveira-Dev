@@ -1,5 +1,50 @@
+# 👋 Olá, eu sou Gustavo Oliveira  
 
-Olá! Meu nome é Gustavo Oliveira e sou um programador Front End apaixonado por tecnologia e desenvolvimento web. Atualmente, tenho alguns projetos desenvolvidos em  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="60" heigth="50"/>   ,   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="60" heigth="90"/>    e   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="100" heigth="170"/>    também com uso de IA  onde aprimoro minhas habilidades na criação de interfaces modernas e responsivas.<br>
+💻 Desenvolvedor **Front-End** apaixonado por transformar ideias em interfaces criativas e funcionais.  
+🎨 Foco em **design responsivo, usabilidade e experiência do usuário**.  
+🤖 Estudo e aplico **Inteligência Artificial** no desenvolvimento de interfaces modernas.  
 
-Estou em processo de aprendizado de     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="70" heigth="70"/> ,  explorando novas possibilidades para tornar minhas aplicações mais dinâmicas e interativas. Minha jornada na programação está apenas começando, e estou sempre em busca de desafios que me permitam crescer e evoluir.<br>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+---
+
+## 🚀 Tecnologias e Ferramentas  
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="AI" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/4712/4712100.png" />
+</div>
+
+---
+
+## 🌱 Atualmente
+- Aprimorando conhecimentos em **UI/UX Design**  
+- Explorando o uso de **IA aplicada ao Front-End**  
+- Criando interfaces criativas, responsivas e acessíveis  
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Oliveira-Dev&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Oliveira-Dev&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+---
+
+## 🐍 Minhas Contribuições
+![Snake animation](https://github.com/Gustavo-Oliveira-Dev/Gustavo-Oliveira-Dev/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌐 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-oliveira-1938b5109)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gustavo-Oliveira-Dev)  
+
+---
+
+✨ Sempre em busca de aprender, criar e compartilhar conhecimento no universo do desenvolvimento web!  
 
