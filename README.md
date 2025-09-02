@@ -1,3 +1,5 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=200&section=header&text=Gustavo%20Oliveira%20%7C%20Front-End%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+
 # 👋 Olá, eu sou Gustavo Oliveira  
 
 💻 Desenvolvedor **Front-End** apaixonado por transformar ideias em interfaces criativas e funcionais.  
@@ -35,16 +37,18 @@
 
 ---
 
-## 🐍 Minhas Contribuições
-![Snake animation](https://github.com/Gustavo-Oliveira-Dev/Gustavo-Oliveira-Dev/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Minhas Contribuições  
+
+![Snake animation dark](https://github.com/Gustavo-Oliveira-Dev/Gustavo-Oliveira-Dev/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)  
+![Snake animation light](https://github.com/Gustavo-Oliveira-Dev/Gustavo-Oliveira-Dev/blob/output/github-contribution-grid-snake-light.svg#gh-light-mode-only)
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Onde me encontrar  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-oliveira-1938b5109)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gustavo-Oliveira-Dev)  
 
 ---
 
 ✨ Sempre em busca de aprender, criar e compartilhar conhecimento no universo do desenvolvimento web!  
-
